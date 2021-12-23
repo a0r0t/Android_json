@@ -1,0 +1,9 @@
+{
+    data : {
+        world : {
+            japan : "日本",
+            america : "アメリカ",
+            chaina : "中国"
+        }
+    }
+}
